@@ -21,10 +21,9 @@
 3. **Added Codex extension** via Cursor's Extensions panel (searched "Codex") and authenticated.
 4. **Created this public GitHub repository** to host my portfolio project.
 5. **Opened the repository in Cursor** and used it as my primary workspace.
-6. **Created this README.md** documenting the full process, issues encountered, and how I resolved them.
+6. **Created this README.md** Researched what each Markdown symbol means (#, **, |, ---, emojis) before writing — wanted to understand the file I was submitting, 
+  not just copy-paste blindly. documenting the full process, issues encountered, and how I resolved them. 
 7. **Committed and pushed** all changes to GitHub.
-8. **Replied to the email** from Alex Kravets with the link to this README.
-
 ---
 
 ## 🧩 Issues Encountered & How I Solved Them
