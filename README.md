@@ -42,13 +42,13 @@
 
 ---
 
-## 💡 What I Learned
+## Commit and push to GitHub
 
-- How to set up a professional developer environment from scratch using Cursor IDE
-- How to install and configure AI coding extensions (Claude Code, Codex)
-- Git workflow: init → stage → commit → push
-- How to write a README that communicates clearly to both technical and non-technical readers
-- **Most importantly:** When you don't know something, the answer is almost always one YouTube search away. Self-sufficiency is a skill.
+- Pushing to GitHub was straightforward for me as I had prior experience with Visual Studio Code, which has a similar workflow to Cursor. I opened a new terminal,  ran the git commands, and pushed without major issues.
+
+- Already familiar with HTML, CSS, and JavaScript which helped me understand the file structure and commands quickly.
+
+- The only learning curve was understanding Markdown syntax — researched what each symbol means (# ** | --- emojis) before writing so I understood exactly what I   was submitting.
 
 ---
 
