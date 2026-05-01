@@ -53,16 +53,4 @@
 
 ---
 
-## 🎯 Why I'm the Right Fit for This Role
-
-I approached this task the way I'd approach any growth challenge:
-- **Broke it into clear steps** instead of being overwhelmed
-- **Found answers independently** when I hit roadblocks
-- **Documented everything** so it's useful for others, not just myself
-- **Shipped on time** — no extensions needed
-
-Growth marketing is about running fast, learning from friction, and iterating. That's exactly what this process tested. I'm ready for step two.
-
----
-
 *Submitted by Kapil | April 2026*
