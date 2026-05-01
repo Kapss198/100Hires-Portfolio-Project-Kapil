@@ -28,17 +28,26 @@
 
 ## 🧩 Issues Encountered & How I Solved Them
 
-### Issue 1: Cursor Extension Panel Confusion
+### Issue 1: Extension Setup & Login Confusion  
+**Problem:** While installing Claude Code and Codex extensions in Cursor, it was initially unclear how authentication worked across tools.  
+**Solution:** Explored the extension settings inside Cursor and followed the login prompts step-by-step. Verified successful setup by ensuring both extensions were active and accessible.
+
+
+### Issue 2: Cursor Extension Panel Confusion
 - **Problem:** When I first searched "Claude Code" in the Extensions panel, I saw multiple results and wasn't sure which was the official one.
 - **Solution:** I cross-referenced the publisher name with Anthropic's official documentation to confirm the correct extension, then installed it. Lesson: Always verify the publisher before installing extensions.
 
-### Issue 2: GitHub Authentication with Cursor
-- **Problem:** Cursor prompted for GitHub credentials when trying to push, and my initial push failed due to authentication.
-- **Solution:** I generated a **Personal Access Token (PAT)** from GitHub Settings → Developer Settings, used it as my password, and the push succeeded. Searched: *"how to push code to GitHub with personal access token"*.
+---
 
-### Issue 3: README Formatting
-- **Problem:** First draft of README.md was too plain — just bullet points with no structure.
-- **Solution:** Researched Markdown best practices on GitHub Docs, added tables, headers, and emojis to make it scannable and professional. The goal was to make it easy for a recruiter to read in 30 seconds.
+### Issue 3: Understanding Cursor IDE Workflow  
+**Problem:** As this was my first time using Cursor, navigating its interface and understanding how it integrates AI tools required some exploration.  
+**Solution:** Spent time exploring the UI, menus, and documentation. Tested basic actions to understand how Cursor manages projects and extensions.
+
+---
+
+### Issue 4: Working Without Prior Instructions Detail  
+**Problem:** Some steps required independent problem-solving rather than explicit instructions.  
+**Solution:** Used online resources, documentation, and experimentation to fill gaps, ensuring the task was completed accurately.
 
 ---
 
@@ -52,4 +61,4 @@
 
 ---
 
-*Submitted by Kapil | April 2026*
+*Submitted by Kapil | 2nd May 2026*
